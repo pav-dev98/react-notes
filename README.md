@@ -66,3 +66,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### `objetivos del proyecto`
+
+Se desea crear una aplicacion que permita guardar notas y formar grupos de estudio, mas adelante se 
+puede sacar resumes de estudios
